@@ -1,7 +1,8 @@
-Bootstrap expand-btn
+Bootstrap Expand Btn
 ====================
 
 Provide expanding buttons for Bootstrap 3.
+![Bootstrap Expand Btn](expand-btn.gif)
 
 Usage
 ===
