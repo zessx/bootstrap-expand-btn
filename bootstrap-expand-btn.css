@@ -1,0 +1,34 @@
+.btn-expend {
+  max-width: 16px;
+  box-sizing: content-box;
+  color: rgba(0, 0, 0, 0);
+  transition: max-width .2s ease;
+}
+.btn-expend.btn-xs {
+  max-width: 12px;
+}
+.btn-expend.btn-sm {
+  max-width: 14px;
+}
+.btn-expend.btn-lg {
+  max-width: 18px;
+}
+.btn-expend i {
+  color: #333;
+}
+.btn-expend.btn-link i {
+  color: #428bca;
+}
+.btn-expend.btn-primary i,
+.btn-expend.btn-success i,
+.btn-expend.btn-info i,
+.btn-expend.btn-warning i,
+.btn-expend.btn-danger i {
+  color: #fff;  
+}
+.btn-expend:hover,
+.btn-expend:focus,
+.btn-expend:active {
+  max-width: 400px;
+  transition-duration: .5s;
+}
