@@ -1,34 +1,34 @@
-.btn-expend {
+.btn-expand {
   max-width: 16px;
   box-sizing: content-box;
   color: rgba(0, 0, 0, 0);
   transition: max-width .2s ease;
 }
-.btn-expend.btn-xs {
+.btn-expand.btn-xs {
   max-width: 12px;
 }
-.btn-expend.btn-sm {
+.btn-expand.btn-sm {
   max-width: 14px;
 }
-.btn-expend.btn-lg {
+.btn-expand.btn-lg {
   max-width: 18px;
 }
-.btn-expend i {
+.btn-expand i {
   color: #333;
 }
-.btn-expend.btn-link i {
+.btn-expand.btn-link i {
   color: #428bca;
 }
-.btn-expend.btn-primary i,
-.btn-expend.btn-success i,
-.btn-expend.btn-info i,
-.btn-expend.btn-warning i,
-.btn-expend.btn-danger i {
-  color: #fff;  
+.btn-expand.btn-primary i,
+.btn-expand.btn-success i,
+.btn-expand.btn-info i,
+.btn-expand.btn-warning i,
+.btn-expand.btn-danger i {
+  color: #fff;
 }
-.btn-expend:hover,
-.btn-expend:focus,
-.btn-expend:active {
+.btn-expand:hover,
+.btn-expand:focus,
+.btn-expand:active {
   max-width: 400px;
   transition-duration: .5s;
 }

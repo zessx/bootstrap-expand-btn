@@ -17,23 +17,23 @@ Examples
 
 Basic :
 
-    <button class="btn btn-default btn-expend"><i class="glyphicon glyphicon-star"></i> Default button</button>
+    <button class="btn btn-default btn-expand"><i class="glyphicon glyphicon-star"></i> Default button</button>
   
 Colors :
 
-    <button class="btn btn-primary btn-expend"><i class="glyphicon glyphicon-star"></i> Primary button</button>
-    <button class="btn btn-success btn-expend"><i class="glyphicon glyphicon-star"></i> Success button</button>
-    <button class="btn btn-info btn-expend"><i class="glyphicon glyphicon-star"></i> Info button</button>
-    <button class="btn btn-warning btn-expend"><i class="glyphicon glyphicon-star"></i> Warning button</button>
-    <button class="btn btn-danger btn-expend"><i class="glyphicon glyphicon-star"></i> Danger button</button>
-    <button class="btn btn-link btn-expend"><i class="glyphicon glyphicon-star"></i> Link button</button>
+    <button class="btn btn-primary btn-expand"><i class="glyphicon glyphicon-star"></i> Primary button</button>
+    <button class="btn btn-success btn-expand"><i class="glyphicon glyphicon-star"></i> Success button</button>
+    <button class="btn btn-info btn-expand"><i class="glyphicon glyphicon-star"></i> Info button</button>
+    <button class="btn btn-warning btn-expand"><i class="glyphicon glyphicon-star"></i> Warning button</button>
+    <button class="btn btn-danger btn-expand"><i class="glyphicon glyphicon-star"></i> Danger button</button>
+    <button class="btn btn-link btn-expand"><i class="glyphicon glyphicon-star"></i> Link button</button>
   
 Sizes :
 
-    <button class="btn btn-xs btn-primary btn-expend"><i class="glyphicon glyphicon-star"></i> Extra small button</button>
-    <button class="btn btn-sm btn-primary btn-expend"><i class="glyphicon glyphicon-star"></i> Small button</button>
-    <button class="btn btn-primary btn-expend"><i class="glyphicon glyphicon-star"></i> Default button</button>
-    <button class="btn btn-lg btn-primary btn-expend"><i class="glyphicon glyphicon-star"></i> Large button</button>
+    <button class="btn btn-xs btn-primary btn-expand"><i class="glyphicon glyphicon-star"></i> Extra small button</button>
+    <button class="btn btn-sm btn-primary btn-expand"><i class="glyphicon glyphicon-star"></i> Small button</button>
+    <button class="btn btn-primary btn-expand"><i class="glyphicon glyphicon-star"></i> Default button</button>
+    <button class="btn btn-lg btn-primary btn-expand"><i class="glyphicon glyphicon-star"></i> Large button</button>
 
 Legals
 ------
