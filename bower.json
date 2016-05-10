@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-expand-btn",
+  "description": "Provide expanding buttons for Bootstrap 3.",
+  "main": [
+    "bootstrap-expand-btn.css"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "bootstrap",
+    "button"
+  ],
+  "authors": [
+    "Samuel Marchal <contact@zes.sx>"
+  ],
+  "homepage": "http://smarchal.com/bootstrap-expand-btn/",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zessx/bootstrap-expand-btn.git"
+  },
+  "ignore": [
+    "expand-btn.gif",
+    "README.md"
+  ]
+}
